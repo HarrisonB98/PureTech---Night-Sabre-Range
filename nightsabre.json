@@ -1,24 +1,24 @@
 {
   "products": [
     {
-      "name": "Product 1",
+      "name": "Low Profile 12V Security Light",
       "image_url": "https://example.com/images/product1.jpg",
       "product_url": "https://example.com/product1",
-      "price": 29.99,
+      "price": "29.99",
       "description": "This is a great product."
     },
     {
       "name": "Product 2",
       "image_url": "https://example.com/images/product2.jpg",
       "product_url": "https://example.com/product2",
-      "price": 49.99,
+      "price": "49.99",
       "description": "Another amazing item."
     },
     {
       "name": "Product 3",
       "image_url": "https://example.com/images/product3.jpg",
       "product_url": "https://example.com/product3",
-      "price": 19.99,
+      "price": "19.99",
       "description": "Affordable and reliable."
     }
   ]
