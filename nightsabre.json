@@ -1,23 +1,23 @@
 [
   {
-    "name": "Low Profile 12V Security Light",
-    "image_url": "https://example.com/images/product1.jpg",
-    "product_url": "https://example.com/product1",
-    "price": "29.99",
-    "description": "This is a great product."
+    "title":"Classic Klaviyo T-Shirt 1",
+    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+    "price":10,
+    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
   },
   {
-    "name": "Product 2",
-    "image_url": "https://example.com/images/product2.jpg",
-    "product_url": "https://example.com/product2",
-    "price": "49.99",
-    "description": "Another amazing item."
+    "title":"Classic Klaviyo T-Shirt 2",
+    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+    "price":10,
+    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
   },
   {
-    "name": "Product 3",
-    "image_url": "https://example.com/images/product3.jpg",
-    "product_url": "https://example.com/product3",
-    "price": "19.99",
-    "description": "Affordable and reliable."
+    "title":"Classic Klaviyo T-Shirt 2",
+    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+    "price":10,
+    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
   }
 ]
